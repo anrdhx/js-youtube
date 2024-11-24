@@ -17,7 +17,7 @@ console.log(typeof bigNumber);
 
 // Array
 
-const heroes = ["krish", "flying jatt", "g-one"]
+const heroes = ["krrish", "flying jatt", "g-one"]
 
 // Object
 
